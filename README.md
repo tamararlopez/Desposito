@@ -1,3 +1,3 @@
 CCuenta.java y Main.java, clases del proyecto Deposito refactorizadas
 
-Documentación generada con javadoc
+JavaDoc: contiene la documentación generada con javadoc
